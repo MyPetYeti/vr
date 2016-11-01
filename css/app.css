@@ -1,0 +1,38 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: sans-serif;
+	vertical-align: top;
+}
+.key-w,
+.key-a,
+.key-s,
+.key-d {
+	display: block;
+	width: 2rem;
+	height: 2rem;
+	border: 2px solid #fff;
+	border-radius: 0.25rem;
+	line-height: calc(2rem - 4px);
+	text-align: center;
+	color: #fff;
+	position: absolute;
+	z-index: 1;
+}
+.key-w {
+	bottom: 4rem;
+	left: 4rem;
+}
+.key-a {
+	bottom: 1rem;
+	left: 1rem;
+}
+.key-s {
+	bottom: 1rem;
+	left: 4rem;
+}
+.key-d {
+	bottom: 1rem;
+	left: 7rem;
+}
