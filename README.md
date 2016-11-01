@@ -2,4 +2,4 @@
 multiplayer vr experience
 
 Demo:
-http://nodejs.mlkart.com/
+http://node-vr.mypetyeti.com/
